@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Reminders",
+  "description": "Premium, glass-morphic reminder system with bulletproof background alarms, custom futuristic soundboard, and Gemini AI-powered card generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
